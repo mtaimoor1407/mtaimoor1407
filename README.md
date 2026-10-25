@@ -14,7 +14,7 @@ My interests include low-resource NLP, Urdu language technology, computer vision
 | [LinguaNext](https://github.com/mtaimoor1407/LinguaNext) | LSTM next-word prediction for English and Roman Urdu | PyTorch, FastAPI, React |
 | [Weather Image Classifier](https://github.com/mtaimoor1407/Weather-Image-Recognition) | Comparing a CNN trained from scratch with a fine-tuned ResNet34 | PyTorch, FastAPI, Streamlit |
 | [Concrete Strength Predictor](https://github.com/mtaimoor1407/Concrete-Strength-Predictor) | Predicting concrete compressive strength from its input properties | Python, machine learning |
-| [ML Models Playground](https://github.com/mtaimoor1407/ML-Models-Playground) | An interactive application for training and comparing ML models | scikit-learn, Streamlit |
+| [DocuLegal](https://github.com/mtaimoor1407/DocuLegal) | PDF question answering with hybrid retrieval and source citations | LangChain, Chroma, Streamlit |
 | [Email Spam Classifier](https://github.com/mtaimoor1407/Email-Spam-Classifier) | Spam classification using TF-IDF and classical ML | scikit-learn, Streamlit |
 
 ## Current work
